@@ -8,7 +8,7 @@ A Machine learning enthusaist trying to find sustainable solutions for society t
 
 
 
-Aspiring software developer with hands on proficiency in programming languages such as C++ and python ....
+Aspiring software developer with hands on proficiency in programming languages such as C++ and python
 
 
 Feel free to connect on :
